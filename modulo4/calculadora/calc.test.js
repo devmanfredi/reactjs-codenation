@@ -5,8 +5,8 @@ describe("calculadora", () => {
     const num1 = 23;
     const num2 = 7;
 
-    expect(23 + 7).toBe(30);
-    expect(23 + 7).not.toBe(31);
+    expect(calc.soma(27,3)).toBe(30);
+    expect(calc.soma(27,3)).not.toBe(31);
   });
 
   describe("soma", () => {
