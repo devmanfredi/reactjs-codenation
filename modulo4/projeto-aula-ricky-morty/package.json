@@ -1,0 +1,14 @@
+{
+  "name": "projeto-aula-ricky-morty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heuler Manfredi",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.5.0"
+  }
+}
